@@ -1,4 +1,4 @@
-<img src="cert.png" />
+<img src="cert.png" height="150px" />
 
 # NoMoreExpiredCerts
 Tool to check x.509 certs for expiry dates and alert when they are approaching expiry
